@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d5821e57e38a1c45b449a12ce088b48
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startScreen: {instanceID: 0}
+  - winScreen: {instanceID: 0}
+  - loseScreen: {instanceID: 0}
+  - car: {fileID: 4116432237604204198, guid: 293f42f6370f5cf4cbef15158ef11b5d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

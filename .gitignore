@@ -1,0 +1,94 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# User-specific settings
+UserSettings/
+
+# Unity generated files
+Library/
+Temp/
+Obj/
+Logs/
+MemoryCaptures/
+Build/
+Builds/
+DerivedDataCache/
+*.csproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.plist
+*.apk
+*.aab
+
+# Visual Studio / MonoDevelop files
+.vscode/
+.vscode/settings.json
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp-firstpass.csproj
+Assembly-CSharp-Editor-firstpass.csproj
+Assembly-UnityScript.csproj
+Assembly-UnityScript-firstpass.csproj
+*.csproj
+*.pidb
+*.sln
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+*.svd
+
+# Auto-generated JetBrains Rider files
+.idea/
+.idea/workspace.xml
+.idea/assetWizardSettings.xml
+.idea/dataSources/
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+.idea/gradle.xml
+.idea/libraries/
+.idea/*.iml
+*.dotCover
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+
+# Crashlytics generated file
+crashlytics-build.properties
+
+# Gradle files
+.gradle/
+*.log
+
+# Node.js modules (if you have them)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Uncomment if using Unity Cloud Build
+# /[Cc]ache/
+# /[Tt]arget/
+
+# Ignore asset meta files for specific formats (optional)
+*.asset.meta
+*.unity.meta
+*.prefab.meta
+
+# Exclude sensitive files
+.env
+.env.*
+
+# LFS for large binary assets, e.g., textures or sounds (optional)
+# *.png
+# *.jpg
+# *.wav
+# *.mp3
